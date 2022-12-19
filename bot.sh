@@ -18,7 +18,8 @@ elif [[ "$opcion_elegida" -eq 2 ]]; then
     echo "$clima_hoy"
 fi
 
-    
+#Mika Cardoso
+#Trabajo Final Arquitectura y Sistemas Operativos (ej 1)   
 
 
 
